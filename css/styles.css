@@ -290,6 +290,7 @@ address{
 .portfolio-nav{
     display: flex;
     margin-bottom: 50px;
+    justify-content: center;
 }
 
 .portfolio-container{
